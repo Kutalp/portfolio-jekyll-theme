@@ -3,7 +3,7 @@
 
 menu:
 - {name: '', url: ''}
-- {name: 'SHOP', link: 'https://shop.kutalp.com'}
+- {name: 'SHOP', url: 'https://shop.kutalp.com'}
 - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
