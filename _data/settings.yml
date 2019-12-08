@@ -2,9 +2,9 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: '', url: ''}
+- {name: 'SHOP', url: 'shop.kutalp.com'}
 - {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
