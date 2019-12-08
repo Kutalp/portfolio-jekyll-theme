@@ -4,8 +4,8 @@
 menu:
 - {name: '', url: ''}
 - {name: 'SHOP', url: 'https://shop.kutalp.com'}
-- {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+- {name: 'Blog', url: 'https://kutalp.com/pages/blog.html'}
+- {name: 'Contact', url: 'https://kutalp.com/pages/contact.html'}
 
 #-------------------------------
 # SEO Section
