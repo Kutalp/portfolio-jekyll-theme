@@ -65,6 +65,6 @@ social:
 - {icon: 'twitter', link: 'twitter.com/KutalpD'}
 - {icon: 'instagram', link: 'instagram.com/kutalpd/'}
 - {icon: 'facebook', link: 'fb.me/KutalpShop'}
-- {icon: 'envelope', link: 'mailt'}
+- {icon: 'envelope', link: 'mailto:'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
