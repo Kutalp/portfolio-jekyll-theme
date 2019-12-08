@@ -1,1 +1,1 @@
-https://shop.kutalp.com
+https://kutalp.com
