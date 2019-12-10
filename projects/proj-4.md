@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kintting'
+title: 'Knitting'
 ---
 
 Will be updated soon.
