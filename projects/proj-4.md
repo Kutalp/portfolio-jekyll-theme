@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Knitting'
+title: 'Ceramic Tile Craft'
 ---
 
 Will be updated soon.
