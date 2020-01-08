@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#1 DONATION IS MADE(3 SAPLINGS)"
+title: "#1 Donation is made (3 SAPLINGS)"
 ---
 <p><span style="color: #00ccff;"><strong>FIRST DONATION IS MADE</strong></span></p>
 <p>I have made more 20 sales until now and today I had enough earnings to donate 3 saplings to TEMA.</p>
