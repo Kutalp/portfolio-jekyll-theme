@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#1 DONATION MADE(3 SAPLINGS)"
+title: "#1 DONATION IS MADE(3 SAPLINGS)"
 ---
 ##FIRST DONATION IS MADE
 
