@@ -9,7 +9,7 @@ I have made more 20 sales until now and today I had enough earnings to donate 3 
 People choose KUTALP shop because they know while they buying something from my shop, I give back to the mother nature. This way we can save our world for future generations.
 
 
-<p><img src="https://kutalp.com/pages/blog.html" alt="Certificate" width="794" height="1123" /></p>
+<p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/Kutalp%20etsy%20shop%20sapling%20donation.jpg?raw=true" alt="Certificate" width="794" height="1123" /></p>
 
 
 Find out more about TEMA;
