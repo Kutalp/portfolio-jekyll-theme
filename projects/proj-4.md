@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Uniquie Gifts'
+title: 'Unique Gifts'
 ---
 
 Will be updated soon.
