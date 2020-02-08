@@ -19,32 +19,32 @@ To increase quality, I tried different materials, fabrics etc. I still do resear
 <table style="height: 629px;" width="372">
 <tbody>
 <tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01492.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.JPG?raw=true" width="400" height="250" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01493.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.JPG?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.JPG?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.JPG?raw=true" width="400" height="250" /></td>
 <tr>
 <tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01494.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01494.jpg?raw=true" width="400" height="250" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01495.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01495.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01494.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01494.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01495.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01495.jpg?raw=true" width="400" height="250" /></td>
 <tr>
 <tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01496.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01496.jpg?raw=true" width="400" height="250" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01497.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01497.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01496.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01496.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01497.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01497.jpg?raw=true" width="400" height="250" /></td>
 <tr>
 <tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01498.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01498.jpg?raw=true" width="400" height="250" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01500.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01500.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01498.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01498.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01500.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01500.jpg?raw=true" width="400" height="250" /></td>
 <tr>
 <tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01687.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01687.jpg?raw=true" width="400" height="250" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01691.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01691.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01687.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01687.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01691.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01691.jpg?raw=true" width="400" height="250" /></td>
 </tr>
 <tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01683.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01683.jpg?raw=true" width="400" height="250" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01685.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01685.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01683.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01683.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01685.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01685.jpg?raw=true" width="400" height="250" /></td>
 </tr>
 <tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01681.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01681.jpg?raw=true" width="400" height="250" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01682.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01682.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01681.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01681.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01682.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01682.jpg?raw=true" width="400" height="250" /></td>
 </tr>
 </tbody>
 </table>
