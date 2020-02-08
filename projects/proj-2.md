@@ -19,5 +19,5 @@ title: 'Leather Craft'
 <p>&nbsp;</p>
 
 <h2 style="text-align: center;">CATALOG</h2>
-<a data-pin-do="embedBoard" data-pin-board-width="500" data-pin-scale-height="1200" data-pin-scale-width="500" href="https://tr.pinterest.com/kutalpd/leather-craft/"></a>
+<a data-pin-do="embedBoard" data-pin-board-width="500" data-pin-scale-height="200" data-pin-scale-width="500" href="https://tr.pinterest.com/kutalpd/leather-craft/"></a>
 
