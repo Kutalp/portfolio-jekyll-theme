@@ -13,7 +13,7 @@ title: 'Unique Gifts'
 <p>&nbsp;</p>
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01650.JPG?raw=true" alt="Testing Kutalp" width="600" height="400" /></p>
 <p>&nbsp;</p>
-<p style="text-align: center;">Not just handmae also customisable</p>
+<p style="text-align: center;">Not just handmae also customizable</p>
 <p>&nbsp;</p>
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01658.JPG?raw=true" alt="Homes" width="600" height="400" /></p>
 <p>&nbsp;</p>
