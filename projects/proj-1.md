@@ -16,4 +16,4 @@ title: 'Embroidery Patches'
 <p style="text-align: center;">To increase quality, I tried different materials, fabrics etc. I still do research for better. Good is never enough there is always better!</p>
 <p>&nbsp;</p>
 <h2 style="text-align: center;">CATALOG</h2>
-<a data-pin-do="embedBoard" data-pin-board-width="500" data-pin-scale-height="1200" data-pin-scale-width="500" href="https://tr.pinterest.com/kutalpd/embroidery-patches/"></a>
+<a data-pin-do="embedBoard" data-pin-board-width="500" data-pin-scale-height="1000" data-pin-scale-width="500" href="https://tr.pinterest.com/kutalpd/embroidery-patches/"></a>
