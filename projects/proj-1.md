@@ -19,8 +19,8 @@ To increase quality, I tried different materials, fabrics etc. I still do resear
 <table style="height: 629px;" width="372">
 <tbody>
 <tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01492.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.jpg?raw=true" width="400" height="250" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01493.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.jpg?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01492.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.JPG?raw=true" width="400" height="250" /></td>
+<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01493.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.JPG?raw=true" width="400" height="250" /></td>
 <tr>
 <tr>
 <td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01494.jpg?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01494.jpg?raw=true" width="400" height="250" /></td>
