@@ -15,7 +15,7 @@ title: 'Embroidery Patches'
 <p>&nbsp;</p>
 To increase quality, I tried different materials, fabrics etc. I still do research for better. Good is never enough there is always better!
 <p>&nbsp;</p>
-<h2>CATALOG</h2>
+<h2 style="text-align: center;">CATALOG</h2>
 <table style="height: 2560px;" width="400">
 <tbody>
 <tr>
