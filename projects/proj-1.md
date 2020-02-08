@@ -11,6 +11,6 @@ title: 'Embroidery Patches'
 <p>&nbsp;</p>
 <p>&nbsp;Every step, every inch, every details is controlled.</p>
 <p>&nbsp;</p>
-<p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01487.jpg" alt="Testing Kutalp" width="1000" height="601" /></p>
+<p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01487.jpg?raw=true" alt="Testing Kutalp" width="1000" height="601" /></p>
 <p>&nbsp;</p>
 To increase quality, I tried different materials, fabrics etc. I still do research for better. Good is never enough there is always better!
