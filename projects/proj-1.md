@@ -16,7 +16,8 @@ title: 'Embroidery Patches'
 To increase quality, I tried different materials, fabrics etc. I still do research for better. Good is never enough there is always better!
 <p>&nbsp;</p>
 <h2>CATALOG</h2>
-
+<table>
+<tbody>
 <tr>
 <td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.JPG?raw=true" width="400" height="250" /></td>
 <td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.JPG?raw=true" width="400" height="250" /></td>
