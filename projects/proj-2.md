@@ -2,18 +2,18 @@
 layout: post
 title: 'Leather Craft'
 ---
-<p>Local materials makes my products more valuable!</p>
-<p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01531.jpg?raw=true" alt="Workshop1" width="900" height="400" /></p>
+<p style="text-align: center;">Local materials makes my products more valuable!</p>
+<p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01531.jpg?raw=true" alt="Workshop1" width="600" height="400" /></p>
 <p>&nbsp;</p>
-<p>Using the right tools always gives perfect results.</p>
+<p style="text-align: center;">Using the right tools always gives perfect results.</p>
 <p>&nbsp;</p>
-<p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01540.jpg?raw=true" alt="Improve Kutalp" width="900" height="400" /></p>
+<p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01540.jpg?raw=true" alt="Improve Kutalp" width="600" height="400" /></p>
 <p>&nbsp;</p>
-<p>You can customize your orders.</p>
+<p style="text-align: center;">You can customize your orders.</p>
 <p>&nbsp;</p>
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01542.jpg?raw=true" alt="Testing Kutalp" width="600" height="400" /></p>
 <p>&nbsp;</p>
-<p>Details are made very carefully.</p>
+<p style="text-align: center;">Details are made very carefully.</p>
 <p>&nbsp;</p>
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01544.jpg?raw=true" alt="Testing Kutalp" width="600" height="400" /></p>
 <p>&nbsp;</p>
