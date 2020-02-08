@@ -34,7 +34,7 @@ google-analytics-ua: 'UA-153515484-3'
 # Change to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'kutalp'
+  disqus_shortname: 'kutalp-com'
 
 #-------------------------------
 # About Section
