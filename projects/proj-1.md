@@ -16,37 +16,4 @@ title: 'Embroidery Patches'
 To increase quality, I tried different materials, fabrics etc. I still do research for better. Good is never enough there is always better!
 <p>&nbsp;</p>
 <h2 style="text-align: center;">CATALOG</h2>
-<table>
-<tbody>
-<tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01492.JPG?raw=true" width="180" height="240" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01493.JPG?raw=true" width="180" height="240" /></td>
-</tr>
-<tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01494.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01494.jpg?raw=true" width="180" height="240" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01495.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01495.jpg?raw=true" width="180" height="240" /></td>
-</tr>
-<tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01496.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01496.jpg?raw=true" width="180" height="240" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01497.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01497.jpg?raw=true" width="180" height="240" /></td>
-</tr>
-<tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01498.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01498.jpg?raw=true" width="180" height="240" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01500.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01500.jpg?raw=true" width="180" height="240" /></td>
-</tr>
-<tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01687.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01687.jpg?raw=true" width="180" height="240" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01691.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01691.jpg?raw=true" width="180" height="240" /></td>
-</tr>
-<tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01683.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01683.jpg?raw=true" width="180" height="240" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01685.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01685.jpg?raw=true" width="180" height="240" /></td>
-</tr>
-<tr>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01681.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01681.jpg?raw=true" width="180" height="240" /></td>
-<td style="width: 178px;"><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01682.JPG?raw=true" alt="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01682.jpg?raw=true" width="180" height="240" /></td>
-</tr>
-</tbody>
-</table>
-
 <a data-pin-do="embedBoard" data-pin-board-width="500" data-pin-scale-height="1500" data-pin-scale-width="500" href="https://tr.pinterest.com/kutalpd/embroidery-patches/"></a>
