@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<p style="text-align: center;">Embroidery Patches</p>
+<h1 style="text-align: center;">Embroidery Patches</h1>
 <p style="text-align: center;">Timeless designs.</p>
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01485.jpg?raw=true" alt="Workshop1" width="600" height="400" /></p>
 <p>&nbsp;</p>
