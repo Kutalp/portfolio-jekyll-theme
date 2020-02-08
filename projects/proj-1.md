@@ -5,7 +5,7 @@ title: 'Embroidery Patches'
 <p>&nbsp;</p>
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01485.jpg?raw=true" alt="Workshop1" width="1000" height="600" /></p>
 <p>&nbsp;</p>
-<p>It's all about passion and quality.</p>
+<p>It's all about passion and quality. I love this work.</p>
 <p>&nbsp;</p>
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01487.jpg" alt="Testing Kutalp" width="1000" height="600" /></p>
 <p>&nbsp;</p>
