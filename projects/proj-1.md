@@ -48,3 +48,5 @@ To increase quality, I tried different materials, fabrics etc. I still do resear
 </tr>
 </tbody>
 </table>
+
+<a data-pin-do="embedBoard" data-pin-board-width="500" data-pin-scale-height="1500" data-pin-scale-width="500" href="https://tr.pinterest.com/kutalpd/embroidery-patches/"></a>
