@@ -2,7 +2,7 @@
 layout: post
 title: 'Leather Craft'
 ---
-<p style="text-align: center;">Local materials makes my products more valuable!</p>
+
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/kutalp-01531.jpg?raw=true" alt="Workshop1" width="600" height="400" /></p>
 <p>&nbsp;</p>
 <p style="text-align: center;">Using the right tools always gives perfect results.</p>
