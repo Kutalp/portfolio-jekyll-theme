@@ -55,6 +55,7 @@ contact: >
 projects:
 - {name: 'Embroidery Patches', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Leather Craft', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Cliparts', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Unique Gifts', folder: 'proj-4', file: 'projects/proj-4.html'}
 
 #-------------------------------
