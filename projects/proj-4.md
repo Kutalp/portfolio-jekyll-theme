@@ -2,7 +2,7 @@
 layout: post
 title: 'Unique Gifts'
 ---
-<p style="text-align: center;">Exclusively on etsy.com</p>
+
 <p><img src="https://github.com/Kutalp/portfolio-jekyll-theme/blob/gh-pages/assets/img/projects/DSC01656.JPG?raw=true" alt="Workshop1" width="600" height="400" /></p>
 <p>&nbsp;</p>
 <p style="text-align: center;">Give unique gifts to your lovely ones.</p>
