@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oil Painting'
+title: 'Cliparts'
 ---
 
 Will be updated soon.
